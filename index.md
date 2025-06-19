@@ -2,7 +2,7 @@
 
 > 👾 Welcome to the digital playground of **XOST Studio** – where code meets imagination.
 
-![XOST Banner](https://github.com/XOST-Studio/XOST-Studio.github.io/blob/main/XostStudio.png) <!-- Replace with your actual banner -->
+<img src="/assets/banner.png" alt="XOST Banner" style="width:100%; border-radius: 10px; box-shadow: 0 0 15px #00f3ff;">
 
 ---
 
