@@ -2,8 +2,14 @@
 
 ---
 layout: default
-title: XOST-Studio.github.io
 ---
+
+<script>
+// Force favicon refresh
+document.querySelector('link[rel="icon"]').href = '/assets/images/favicon.ico?' + new Date().getTime();
+</script>
+
+Your content here...
 
 > 👾 Welcome to the digital playground of **XOST Studio** – where code meets imagination.
 
