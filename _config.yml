@@ -1,32 +1,22 @@
 title: XOST Studio
 description: >-
   A futuristic software and gaming brand — building the next-gen digital experiences.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xost-studio.github.io/" # the base hostname & protocol for your site
+baseurl: "" 
+url: "https://xost-studio.github.io"
 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 
-# Author info (optional)
 author:
   name: XOST-Studio
   email: waleednaeem133@gmail.com
 
-# Social Links (optional)
-social_links:
-  github: XOST-Studio
-  instagram: xoststudio
-  youtube: "@xoststudio"
-
-# Plugins (optional but recommended for extended functionality)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Build settings
 markdown: kramdown
 highlighter: rouge
 
-# Exclude files/folders from build (optional)
 exclude:
   - README.md
   - Gemfile
