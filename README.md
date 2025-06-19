@@ -2,7 +2,7 @@
 
 > 👾 Welcome to the digital playground of **XOST Studio** – where code meets imagination.
 
-![XOST Banner](https://yourdomain.com/assets/banner.png) <!-- Replace with your actual banner -->
+![XOST Banner](https://github.com/XOST-Studio/XOST-Studio.github.io/blob/main/XostStudio.png) <!-- Replace with your actual banner -->
 
 ---
 
