@@ -4,9 +4,9 @@ description: >-
 baseurl: "" 
 url: "https://xost-studio.github.io"
 
-remote_theme: pages-themes/hacker@v0.2.0
+# remote_theme: pages-themes/hacker@v0.2.0
 
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-favicon  # Not required but helpful
 
