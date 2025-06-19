@@ -1,1 +1,33 @@
-_config.yml
+title: XOST Studio
+description: >-
+  A futuristic software and gaming brand — building the next-gen digital experiences.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://xoststudio.com" # the base hostname & protocol for your site
+
+theme: jekyll-theme-minimal
+
+# Author info (optional)
+author:
+  name: Waleed Naeem
+  email: waleednaeem133@gmail.com
+
+# Social Links (optional)
+social_links:
+  github: XOST-Studio
+  instagram: xoststudio
+  youtube: "@xoststudio"
+
+# Plugins (optional but recommended for extended functionality)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files/folders from build (optional)
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
