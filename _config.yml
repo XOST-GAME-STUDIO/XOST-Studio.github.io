@@ -2,13 +2,13 @@ title: XOST Studio
 description: >-
   A futuristic software and gaming brand — building the next-gen digital experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xoststudio.com" # the base hostname & protocol for your site
+url: "https://xost-studio.github.io/" # the base hostname & protocol for your site
 
 theme: jekyll-theme-minimal
 
 # Author info (optional)
 author:
-  name: Waleed Naeem
+  name: XOST-Studio
   email: waleednaeem133@gmail.com
 
 # Social Links (optional)
