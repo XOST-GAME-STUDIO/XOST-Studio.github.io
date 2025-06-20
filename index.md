@@ -163,13 +163,13 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
       <div style="background: rgba(194, 232, 242, 0.05); padding: 20px; border-radius: 10px; border: 1px solid rgba(194, 232, 242, 0.1); transition: all 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(194, 232, 242, 0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
         <h5 style="color: #c1ebf2; margin-top: 0;">🚗 Car Showroom Sales System</h5>
         <p>C++ application for inventory/customer management</p>
-        <a href="https://github.com/W-N-R/Car-Showroom-Sales" target="_blank" style="color: #82e85b; text-decoration: none;">View on GitHub →</a>
+        <a href="https://github.com/W-N-R/-Car-Showroom-Sales-System-C-" target="_blank" style="color: #82e85b; text-decoration: none;">View on GitHub →</a>
       </div>
       <!--wali-->
       <div style="background: rgba(194, 232, 242, 0.05); padding: 20px; border-radius: 10px; border: 1px solid rgba(194, 232, 242, 0.1); transition: all 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(194, 232, 242, 0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
         <h5 style="color: #c1ebf2; margin-top: 0;">💡 4x4x4 LED Cube</h5>
         <p>Arduino-powered display with multiplexed animations</p>
-        <a href="https://github.com/W-N-R/LED-Cube-4x4x4" target="_blank" style="color: #82e85b; text-decoration: none;">View on GitHub →</a>
+        <a href="https://github.com/W-N-R/My-Electronics-Embedded-Systems-Project-Hub-/tree/main/4%20X%204%20X%204_MATRIX_Ardiuno%20nano%20project" target="_blank" style="color: #82e85b; text-decoration: none;">View on GitHub →</a>
       </div>
       <div style="background: rgba(194, 232, 242, 0.05); padding: 20px; border-radius: 10px; border: 1px solid rgba(194, 232, 242, 0.1); transition: all 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(194, 232, 242, 0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
         <h5 style="color: #c1ebf2; margin-top: 0;">🌐 Web Development</h5>
