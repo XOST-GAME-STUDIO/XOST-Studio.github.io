@@ -17,7 +17,7 @@ From **pixels to players**, **code to cosmos**, every project is a fusion of eng
 
 ## 👨‍💻 Founder & CEO: Muhammad Waleed
 
-*Electrical Engineer | Embedded Systems Developer | Creative Technologist*  
+**Electrical Engineer** ‖ **Embedded Systems Developer** ‖ **Creative Technologist**
 📍 Lahore, Pakistan | ✉️ waleednaeem133@gmail.com | 🔗 [GitHub](https://github.com/W-N-R)
 
 ### 🎯 Profile
