@@ -24,6 +24,25 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
+---
+
+## 👤 Meet the Founder
+> **[Muhammad Waleed](about/muhammad‑waleed.md)** – Founder, Lead Developer & Creative Engineer.
+
+---
+
+## 📢 Stay Connected
+- GitHub: <https://github.com/XOST‑Studio>
+- Instagram: @xost.studio
+- Email: hello@xoststudio.com
+
+_Ready to collaborate? Drop us a line and let’s shape the future together!_
+
+---
+
+© 2025 XOST Studio. All rights reserved.
+
+
 exclude:
   - README.md
   - Gemfile
