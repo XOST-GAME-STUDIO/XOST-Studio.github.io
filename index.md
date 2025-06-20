@@ -107,23 +107,19 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
           </div>
         </div>
       </div>
-      ---
       <div style="flex: 1; min-width: 300px;">
         <h3 style="margin-top: 0; color: #c1ebf2; font-size: 1.8rem;">
           <span style="color: #82e85b;">MUHAMMAD WALEED</span>
         </h3>
-        ---
         <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
           <span style="background: rgba(130, 232, 91, 0.2); padding: 5px 12px; border-radius: 20px; border: 1px dashed #82e85b; animation: float 3s ease-in-out infinite 1s;">Electrical Engineer</span>
           <span style="background: rgba(194, 232, 242, 0.2); padding: 5px 12px; border-radius: 20px; border: 1px dashed #c1ebf2; animation: float 3s ease-in-out infinite 1.2s;">Embedded Systems</span>
           <span style="background: rgba(130, 232, 91, 0.2); padding: 5px 12px; border-radius: 20px; border: 1px dashed #82e85b; animation: float 3s ease-in-out infinite 1.4s;">Creative Technologist</span>
         </div>
-        ---
         <div style="color: #c1ebf2; margin: 20px 0; font-size: 1.1rem;">
           📍 Lahore, Pakistan | ✉️ waleednaeem133@gmail.com | 🔗 
           <a href="https://github.com/W-N-R" style="color: #82e85b; text-decoration: none; transition: all 0.3s;" onmouseover="this.style.textShadow='0 0 5px #82e85b'" onmouseout="this.style.textShadow='none'">GitHub</a>
         </div>
-        ---
         <div style="background: rgba(194, 232, 242, 0.05); padding: 15px; border-radius: 10px; border: 1px solid rgba(194, 232, 242, 0.1);">
           <h4 style="color: #82e85b; margin-top: 0;">🎯 PROFILE</h4>
           <ul style="padding-left: 20px;">
@@ -146,13 +142,12 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         <p>C++ application for inventory/customer management</p>
         <a href="https://github.com/W-N-R/Car-Showroom-Sales" target="_blank" style="color: #82e85b; text-decoration: none;">View on GitHub →</a>
       </div>
-      ---
+      <!--wali-->
       <div style="background: rgba(194, 232, 242, 0.05); padding: 20px; border-radius: 10px; border: 1px solid rgba(194, 232, 242, 0.1); transition: all 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(194, 232, 242, 0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
         <h5 style="color: #c1ebf2; margin-top: 0;">💡 4x4x4 LED Cube</h5>
         <p>Arduino-powered display with multiplexed animations</p>
         <a href="https://github.com/W-N-R/LED-Cube-4x4x4" target="_blank" style="color: #82e85b; text-decoration: none;">View on GitHub →</a>
       </div>
-      ---
       <div style="background: rgba(194, 232, 242, 0.05); padding: 20px; border-radius: 10px; border: 1px solid rgba(194, 232, 242, 0.1); transition: all 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(194, 232, 242, 0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
         <h5 style="color: #c1ebf2; margin-top: 0;">🌐 Web Development</h5>
         <p>Deployed sites with 1500+ visits using HTML/CSS</p>
@@ -175,7 +170,6 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         </div>
         <h5 style="color: #c1ebf2; margin: 10px 0;">Embedded Systems</h5>
       </div>
-      ---
       <div style="text-align: center;">
         <div class="skill-circle" style="width: 100px; height: 100px; margin-bottom: 10px;">
           <svg viewBox="0 0 120 120">
@@ -185,7 +179,6 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         </div>
         <h5 style="color: #c1ebf2; margin: 10px 0;">HTML/CSS</h5>
       </div>
-      ----
       <div style="text-align: center;">
         <div class="skill-circle" style="width: 100px; height: 100px; margin-bottom: 10px;">
           <svg viewBox="0 0 120 120">
@@ -228,7 +221,6 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(130, 232, 91, 0.3)'">
       📄 Full Resume
     </a>
-    ----
     <a href="https://github.com/W-N-R" 
        target="_blank"
        style="background: transparent; 
@@ -256,18 +248,15 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         🛠️ TECH STACK
       </span>
     </h2>
-    ---
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
       <div style="background: rgba(194, 232, 242, 0.05); padding: 25px; border-radius: 10px; border-top: 3px solid #82e85b; transition: all 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 25px rgba(130, 232, 91, 0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
         <h4 style="color: #c1ebf2; margin-top: 0; font-size: 1.3rem;">🔷 Frontend</h4>
         <p style="margin-bottom: 0;">HTML5 / CSS3 / JavaScript</p>
       </div>
-      ---
       <div style="background: rgba(194, 232, 242, 0.05); padding: 25px; border-radius: 10px; border-top: 3px solid #c1ebf2; transition: all 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 25px rgba(194, 232, 242, 0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
         <h4 style="color: #c1ebf2; margin-top: 0; font-size: 1.3rem;">⚛️ Animations</h4>
         <p style="margin-bottom: 0;">GSAP, CSS3, Lottie</p>
       </div>
-      ---
       <div style="background: rgba(194, 232, 242, 0.05); padding: 25px; border-radius: 10px; border-top: 3px solid #82e85b; transition: all 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 25px rgba(130, 232, 91, 0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
         <h4 style="color: #c1ebf2; margin-top: 0; font-size: 1.3rem;">🌀 Layout</h4>
         <p style="margin-bottom: 0;">Responsive, mobile-first</p>
@@ -278,10 +267,8 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
   <!-- Footer -->
   <footer style="text-align: center; margin-top: 80px; padding: 30px 0; color: #c1ebf2; font-size: 0.9em; border-top: 1px solid rgba(194, 232, 242, 0.2); position: relative;">
     <div style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 30%; height: 1px; background: linear-gradient(90deg, transparent, #82e85b, #c1ebf2, transparent);"></div>
-    ---
     <p style="margin: 10px 0;">© 2025 XOST Studio | Building the next-gen digital experiences</p>
     <p style="margin: 10px 0;">Project maintained by <a href="https://github.com/W-N-R" style="color: #82e85b; text-decoration: none; transition: all 0.3s;" onmouseover="this.style.textShadow='0 0 8px #82e85b'" onmouseout="this.style.textShadow='none'">WNR</a></p>
-    ---
     <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
       <a href="#" style="color: #c1ebf2; text-decoration: none; transition: all 0.3s;" onmouseover="this.style.color='#82e85b'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#c1ebf2'; this.style.transform='scale(1)'">Twitter</a>
       <a href="#" style="color: #c1ebf2; text-decoration: none; transition: all 0.3s;" onmouseover="this.style.color='#82e85b'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#c1ebf2'; this.style.transform='scale(1)'">LinkedIn</a>
