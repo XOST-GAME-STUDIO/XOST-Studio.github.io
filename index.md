@@ -1,64 +1,52 @@
-# ⚡ XOST Studio – Official Website
-> 👾 Welcome to the digital playground of **XOST Studio** – where code meets imagination.
+# ⚡ XOST Studio 
 
-<img src="https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/XostStudio.png" alt="XOST Banner" style="width:100%; border-radius:10px; box-shadow:0 0 15px #82e85b;">
+> 👾 Welcome to the digital playground of **XOST Studio** – where code meets imagination.
 
----
-
-## 🚀 About Us
-**XOST Studio** is a next‑gen creative‑tech lab crafting immersive games, futuristic software and unforgettable digital experiences.  
-From **pixels to players**, **code to cosmos**, we push boundaries and blur realities.
-
-### 🌠 Vision
-> **To build worlds that feel alive and empower people to explore them.**
-
-### 🎯 Mission
-1. Fuse art and engineering into seamless, performant experiences.  
-2. Democratise access to interactive technology through open‑source projects and community learning.  
-3. Champion ethical, player‑centric design that sparks curiosity and joy.
+<img src="https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/XostStudio.png" alt="XOST Banner" style="width:100%; border-radius: 10px; box-shadow: 0 0 15px #82e85b;">
 
 ---
 
-## 🛠️ Tech Stack
-| Layer | Primary Tools | Notes |
-|-------|---------------|-------|
-| **Frontend** | HTML5 • CSS3 • JavaScript (ES6) | Framework‑ready (React / Svelte coming soon) |
-| **Animation & Motion** | GSAP • CSS3 keyframes • Lottie | Micro‑interactions + hero animations |
-| **Backend / Cloud** | Node.js • Firebase • Supabase | Lightweight, scalable serverless approach |
-| **Game Dev** | Unity (C#) • Godot (GDScript) | 2D/3D pipelines, VR/AR‑ready |
-| **Embedded / IoT** | Arduino • ESP32 (C/C++) | Rapid hardware prototyping |
-| **Design** | Blender • Figma • Adobe Suite | Procedural modeling, PBR texturing, UI/UX |
-| **CI/CD & DevOps** | GitHub Actions • Vercel | Zero‑downtime atomic deploys |
+## � About XOST Studio
 
-_Aesthetic:_ Ultra‑dark theme, neon glitch overlays, fluid glass‑morphism accents.
+**XOST Studio** is a next-gen creative development studio focused on crafting immersive games, futuristic software, and powerful digital experiences. Founded by **Muhammad Waleed**, we blend hardware innovation with software excellence to push boundaries in interactive technology.
+
+We’re more than just developers — we’re world-builders.  
+From **pixels to players**, **code to cosmos**, every project is a fusion of engineering rigor and creative vision.
 
 ---
 
-## 🌌 Featured Projects
-| Project | Snapshot | Highlights |
-|---------|----------|------------|
-| **LED Cube 4×4×4** | <img src="https://github.com/W-N-R/LED-Cube-4x4x4/raw/main/preview.gif" width="160"> | C++ multiplexing, custom animation sequencer. |
-| **Car Showroom Sales System** | <img src="https://github.com/W-N-R/Car-Showroom-Sales/raw/main/demo.gif" width="160"> | End‑to‑end inventory & billing CLI in modern C++. |
-| **Neon Tic Tac Toe** | <img src="https://raw.githubusercontent.com/XOST-Studio/assets/main/neon-ttt.gif" width="160"> | Web–based game with GSAP‑powered glow effects. |
+## 👨‍💻 Founder & CEO: Muhammad Waleed
 
-> ✨ _Behind every release is an article in our DevLogs._
+**Electrical Engineer | Embedded Systems Developer | Creative Technologist**  
+📍 Lahore, Pakistan | ✉️ waleednaeem133@gmail.com | 🔗 [GitHub](https://github.com/W-N-R)
 
----
+### 🎯 Profile
+- Transitioning from **Electrical Engineering (FAST-NUCES)** to **Computer Engineering** with expertise in **C++**, **Arduino**, and full-stack development.
+- Founder of **WNR Production Studio**, specializing in embedded systems, branding, and 3D animation.
+- Passionate about open-source contributions and hardware-software integration.
 
-## 🤝 Services
-- **Indie Game Development** – Concept‑to‑shipping on PC, mobile & XR.
-- **Custom Software Engineering** – Bespoke web or desktop apps, rapid MVPs.
-- **Embedded Prototyping** – Arduino/ESP32 automation & IoT dashboards.
-- **3D Visualisation & Branding** – Cinematic intros, product visualisation, branding kits.
+### 🔧 Key Projects
+- **[Car Showroom Sales System](https://github.com/W-N-R/Car-Showroom-Sales)**: C++ application for inventory/customer management.
+- **[4x4x4 LED Cube](https://github.com/W-N-R/LED-Cube-4x4x4)**: Arduino-powered display with multiplexed animations.
+- **Web Development**: Deployed sites with 1500+ visits using HTML/CSS.
 
----
+### 🛠️ Technical Skills
+- **Programming**: C++, Embedded Systems (Arduino), HTML/CSS
+- **Design**: Blender, Adobe Suite, Figma, 3D Animation
+- **Tools**: Git/GitHub, MATLAB, Proteus, Altium
 
-## 🧭 Core Values
-- **Playfulness** – Work that feels like a game, even when it’s serious.
-- **Craftsmanship** – Pixel‑perfect or it’s not done.
-- **Learning in Public** – Open‑source first, community always.
-- **Impact > Hype** – Meaningful tools over fleeting trends.
+📌 *[Full Resume](/waleed-resume) | [GitHub Portfolio](https://github.com/W-N-R)*
 
 ---
 
-## 📂 Repository Structure
+## 🛠️ Tech Stack
+
+Built using a clean, fast, and modular frontend stack:
+- 🔷 HTML5 / CSS3 / JavaScript (Vanilla + Framework Ready)
+- ⚛️ Animations via GSAP, CSS3, Lottie (future use)
+- 🌀 Responsive, mobile-first layout
+- 🌌 Aesthetic dark theme with glitch/neon visuals
+
+---
+
+## 📂 Repository Structure
