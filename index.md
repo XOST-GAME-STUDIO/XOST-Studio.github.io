@@ -2,7 +2,7 @@
 
 > <span style="display: inline-block; background: linear-gradient(90deg, #82e85b, #c1ebf2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 8px rgba(194, 232, 242, 0.3);">👾 Welcome to the digital playground of **XOST Studio** — where code meets imagination.</span>
 
-<img src="https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/XostStudio.png" alt="XOST Banner" style="width:100%; border-radius: 10px; box-shadow: 0 0 20px #82e85b, 0 0 30px #c1ebf2; border: 1px solid rgba(194, 232, 242, 0.2);">
+<img src="https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/XostStudio.png" alt="XOST Banner" style="width:100% border-radius: 15px; box-shadow: 0 0 20px #82e85b, 0 0 30px #c1ebf2; border: 1px solid rgba(194, 232, 242, 0.2);">
 
 ---
 
@@ -101,6 +101,12 @@ From <span style="color: #c1ebf2;">pixels to players</span>, <span style="color:
   </div>
 </div>
 
+---
+---
+layout: default
+title: XOST STUDIO
+description: Futuristic software and gaming brand building next-gen digital experiences
+image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/XostStudio.png
 ---
 
 <footer style="text-align: center; margin-top: 50px; color: #c1ebf2; font-size: 0.9em;">
