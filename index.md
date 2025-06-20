@@ -313,9 +313,8 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
     <p style="margin: 10px 0;">© 2025 XOST Studio | Building the next-gen digital experiences</p>
     <p style="margin: 10px 0;">Project maintained by <a href="https://github.com/W-N-R" style="color: #82e85b; text-decoration: none; transition: all 0.3s;" onmouseover="this.style.textShadow='0 0 8px #82e85b'" onmouseout="this.style.textShadow='none'">WNR</a></p>
     <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-      <a href="#" style="color: #c1ebf2; text-decoration: none; transition: all 0.3s;" onmouseover="this.style.color='#82e85b'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#c1ebf2'; this.style.transform='scale(1)'">Twitter</a>
+      <a href="https://x.com/wnr_wali_01" style="color: #c1ebf2; text-decoration: none; transition: all 0.3s;" onmouseover="this.style.color='#82e85b'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#c1ebf2'; this.style.transform='scale(1)'">Twitter</a>
       <a href="#" style="color: #c1ebf2; text-decoration: none; transition: all 0.3s;" onmouseover="this.style.color='#82e85b'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#c1ebf2'; this.style.transform='scale(1)'">LinkedIn</a>
-      <a href="#" style="color: #c1ebf2; text-decoration: none; transition: all 0.3s;" onmouseover="this.style.color='#82e85b'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#c1ebf2'; this.style.transform='scale(1)'">Instagram</a>
+      <a href="https://www.instagram.com/w.n.r._.wali._.01/" style="color: #c1ebf2; text-decoration: none; transition: all 0.3s;" onmouseover="this.style.color='#82e85b'; this.style.transform='scale(1.2)'" onmouseout="this.style.color='#c1ebf2'; this.style.transform='scale(1)'">Instagram</a>
     </div>
   </footer>
-</div>
