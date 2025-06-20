@@ -20,8 +20,8 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
   }
   .skill-circle {
     position: relative;
-    width: 150px;
-    height: 150px;
+    width: 155px;
+    height: 155px;
     margin: 0 auto;
   }
   .circle-bg {
@@ -31,7 +31,7 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
   }
   .circle-progress {
     fill: none;
-    stroke: #82e85b, #036a9a;
+    stroke: #82e85b;
     stroke-width: 8;
     stroke-linecap: round;
     stroke-dasharray: 314;
