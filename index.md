@@ -51,7 +51,8 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
     transform: translateY(0);
   }
 </style>
-  <script>
+
+<script>
   document.addEventListener('DOMContentLoaded', function() {
     const skillsSection = document.querySelector('#skills-section');
     const observer = new IntersectionObserver((entries) => {
