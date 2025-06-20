@@ -6,18 +6,18 @@
 
 ---
 
-## � About XOST Studio
+## 🚀 About XOST Studio
 
 **XOST Studio** is a next-gen creative development studio focused on crafting immersive games, futuristic software, and powerful digital experiences. Founded by **Muhammad Waleed**, we blend hardware innovation with software excellence to push boundaries in interactive technology.
 
-We’re more than just developers — we’re world-builders.  
+We're more than just developers — we're world-builders.  
 From **pixels to players**, **code to cosmos**, every project is a fusion of engineering rigor and creative vision.
 
 ---
 
 ## 👨‍💻 Founder & CEO: Muhammad Waleed
 
-*Electrical Engineer | Embedded Systems Developer | Creative Technologist* 
+*Electrical Engineer | Embedded Systems Developer | Creative Technologist*  
 📍 Lahore, Pakistan | ✉️ waleednaeem133@gmail.com | 🔗 [GitHub](https://github.com/W-N-R)
 
 ### 🎯 Profile
@@ -35,7 +35,7 @@ From **pixels to players**, **code to cosmos**, every project is a fusion of eng
 - **Design**: Blender, Adobe Suite, Figma, 3D Animation
 - **Tools**: Git/GitHub, MATLAB, Proteus, Altium
 
-📌 *[Full Resume](https://github.com/XOST-Studio/XOST-Studio.github.io/blob/main/Muhammad%20Waleed%20Resume.pdf) | [GitHub Portfolio](https://github.com/XOST-Studio/XOST-Studio.github.io/blob/main/Muhammad%20Waleed%20Resume.pdf)*
+📌 *[Full Resume](https://github.com/XOST-Studio/XOST-Studio.github.io/raw/main/Muhammad%20Waleed%20Resume.pdf){:target="_blank"} | [GitHub Portfolio](https://github.com/W-N-R){:target="_blank"}*
 
 ---
 
