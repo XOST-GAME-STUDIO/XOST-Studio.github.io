@@ -14,8 +14,9 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
     0%, 100% { box-shadow: 0 0 20px #82e85b, 0 0 30px #c1ebf2; }
     50% { box-shadow: 0 0 30px #82e85b, 0 0 40px #c1ebf2; }
   }
-  @keyframes rotate {
-    100% { transform: rotate(360deg); }
+  @keyframes progress {
+    0% { stroke-dashoffset: 314; }
+    100% { stroke-dashoffset: var(--target-offset); }
   }
   .skill-circle {
     position: relative;
@@ -36,17 +37,109 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
     stroke-dasharray: 314;
     transform-origin: center;
     transform: rotate(-90deg);
-    animation: rotate 2s linear infinite;
   }
   .neon-text {
     text-shadow: 0 0 5px #82e85b, 0 0 10px #c1ebf2;
   }
+  .skills-container {
+    opacity: 0;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    transform: translateY(20px);
+  }
+  .skills-container.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
 </style>
 
-<div style="max-width: 1200px; margin: 0 auto; padding: 20px; position: relative; overflow: hidden;">
-  <!-- Ambient Light Elements -->
-  <div style="position: absolute; top: -50px; left: -50px; width: 200px; height: 200px; border-radius: 50%; background: radial-gradient(circle, rgba(130, 232, 91, 0.2) 0%, transparent 70%); filter: blur(30px); z-index: -1;"></div>
-  <div style="position: absolute; bottom: -50px; right: -50px; width: 300px; height: 300px; border-radius: 50%; background: radial-gradient(circle, rgba(194, 232, 242, 0.15) 0%, transparent 70%); filter: blur(40px); z-index: -1;"></div>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const skillsSection = document.querySelector('#skills-section');
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          // Trigger circle animations
+          const circles = entry.target.querySelectorAll('.circle-progress');
+          circles.forEach(circle => {
+            circle.style.animation = 'progress 1.5s ease-out forwards';
+          });
+        }
+      });
+    }, { threshold: 0.1 });
+    
+    if (skillsSection) {
+      observer.observe(skillsSection);
+    }
+  });
+</script>
+
+<!-- [Previous header/content remains the same until Skills Section] -->
+
+<!-- Skills Section -->
+<section id="skills-section" style="margin: 60px 0;" class="skills-container">
+  <h4 style="color: #82e85b; font-size: 1.5rem; margin-bottom: 20px; text-align: center;">🛠️ TECHNICAL SKILLS</h4>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 40px; margin-top: 40px;">
+    <!-- Embedded Systems - 92% -->
+    <div style="text-align: center;">
+      <div class="skill-circle">
+        <svg viewBox="0 0 120 120">
+          <circle class="circle-bg" cx="60" cy="60" r="50"></circle>
+          <circle class="circle-progress" cx="60" cy="60" r="50" 
+                  style="--target-offset: 25.12;"></circle> <!-- 314 * (1 - 0.92) = 25.12 -->
+        </svg>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+          <span style="color: #82e85b; font-size: 1.8rem; font-weight: bold;">92%</span><br>
+          <span style="color: #c1ebf2;">Embedded Systems</span>
+        </div>
+      </div>
+    </div>
+    <!-- HTML/CSS - 85% -->
+    <div style="text-align: center;">
+      <div class="skill-circle">
+        <svg viewBox="0 0 120 120">
+          <circle class="circle-bg" cx="60" cy="60" r="50"></circle>
+          <circle class="circle-progress" cx="60" cy="60" r="50" 
+                  style="--target-offset: 47.1;"></circle> <!-- 314 * (1 - 0.85) = 47.1 -->
+        </svg>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+          <span style="color: #82e85b; font-size: 1.8rem; font-weight: bold;">85%</span><br>
+          <span style="color: #c1ebf2;">HTML/CSS</span>
+        </div>
+      </div>
+    </div>
+    <!-- Git/GitHub - 99% -->
+    <div style="text-align: center;">
+      <div class="skill-circle">
+        <svg viewBox="0 0 120 120">
+          <circle class="circle-bg" cx="60" cy="60" r="50"></circle>
+          <circle class="circle-progress" cx="60" cy="60" r="50" 
+                  style="--target-offset: 3.14;"></circle> <!-- 314 * (1 - 0.99) = 3.14 -->
+        </svg>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+          <span style="color: #82e85b; font-size: 1.8rem; font-weight: bold;">99%</span><br>
+          <span style="color: #c1ebf2;">Git/GitHub</span>
+        </div>
+      </div>
+    </div>
+    <!-- 3D Animation - 80% -->
+    <div style="text-align: center;">
+      <div class="skill-circle">
+        <svg viewBox="0 0 120 120">
+          <circle class="circle-bg" cx="60" cy="60" r="50"></circle>
+          <circle class="circle-progress" cx="60" cy="60" r="50" 
+                  style="--target-offset: 62.8;"></circle> <!-- 314 * (1 - 0.80) = 62.8 -->
+        </svg>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+          <span style="color: #82e85b; font-size: 1.8rem; font-weight: bold;">80%</span><br>
+          <span style="color: #c1ebf2;">3D Animation</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
   <!-- Header -->
   <h1 style="text-align: center; color: #82e85b; font-size: 3.5rem; margin-bottom: 10px; animation: float 3s ease-in-out infinite;" class="neon-text">
