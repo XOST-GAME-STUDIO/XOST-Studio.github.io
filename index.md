@@ -52,7 +52,27 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
   }
 </style>
 
-
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const skillsSection = document.querySelector('#skills-section');
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          // Trigger circle animations
+          const circles = entry.target.querySelectorAll('.circle-progress');
+          circles.forEach(circle => {
+            circle.style.animation = 'progress 1.5s ease-out forwards';
+          });
+        }
+      });
+    }, { threshold: 0.1 });
+    
+    if (skillsSection) {
+      observer.observe(skillsSection);
+    }
+  });
+</script>
 
 
   <!-- Header -->
@@ -160,27 +180,7 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
   </section>
 
   <!-- Skills Section -->
-  <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const skillsSection = document.querySelector('#skills-section');
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('visible');
-          // Trigger circle animations
-          const circles = entry.target.querySelectorAll('.circle-progress');
-          circles.forEach(circle => {
-            circle.style.animation = 'progress 1.5s ease-out forwards';
-          });
-        }
-      });
-    }, { threshold: 0.1 });
-    
-    if (skillsSection) {
-      observer.observe(skillsSection);
-    }
-  });
-</script>
+
 
 <!-- [Previous header/content remains the same until Skills Section] -->
 
