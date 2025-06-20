@@ -72,11 +72,9 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         🚀 ABOUT XOST STUDIO
       </span>
     </h2>
-    ---
     <p style="font-size: 1.1rem; line-height: 1.6;">
       <strong>XOST Studio</strong> is a next-gen creative development studio focused on crafting immersive games, futuristic software, and powerful digital experiences. Founded by <strong>Muhammad Waleed</strong>, we blend hardware innovation with software excellence to push boundaries in interactive technology.
     </p>
-    ---
     <div style="background: rgba(194, 232, 242, 0.1); padding: 20px; border-left: 3px solid #82e85b; border-radius: 0 10px 10px 0; margin: 30px 0; backdrop-filter: blur(5px);">
       <p style="font-size: 1.2rem; line-height: 1.6; margin: 0;">
         We're more than just developers — we're <span style="color: #82e85b;">world-builders</span>.<br>
@@ -92,7 +90,6 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         👨‍💻 FOUNDER & CEO
       </span>
     </h2>
-    ---
     <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center; justify-content: center; margin: 40px 0;">
       <!-- Circular Skill Graph -->
       <div style="flex: 0 0 300px;">
@@ -135,7 +132,6 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
   <!-- Projects Section -->
   <section style="margin: 60px 0;">
     <h4 style="color: #82e85b; font-size: 1.5rem; margin-bottom: 20px;">🔧 KEY PROJECTS</h4>
-    ---
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
       <div style="background: rgba(194, 232, 242, 0.05); padding: 20px; border-radius: 10px; border: 1px solid rgba(194, 232, 242, 0.1); transition: all 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(194, 232, 242, 0.1)'" onmouseout="this.style.transform='none'; this.style.boxShadow='none'">
         <h5 style="color: #c1ebf2; margin-top: 0;">🚗 Car Showroom Sales System</h5>
@@ -159,7 +155,6 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
   <!-- Skills Section -->
   <section style="margin: 60px 0;">
     <h4 style="color: #82e85b; font-size: 1.5rem; margin-bottom: 20px;">🛠️ TECHNICAL SKILLS</h4>
-    ---
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
       <div style="text-align: center;">
         <div class="skill-circle" style="width: 100px; height: 100px; margin-bottom: 10px;">
@@ -188,7 +183,6 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         </div>
         <h5 style="color: #c1ebf2; margin: 10px 0;">3D Animation</h5>
       </div>
-      ----
       <div style="text-align: center;">
         <div class="skill-circle" style="width: 100px; height: 100px; margin-bottom: 10px;">
           <svg viewBox="0 0 120 120">
