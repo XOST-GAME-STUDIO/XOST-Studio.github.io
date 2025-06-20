@@ -43,14 +43,43 @@ From <span style="color: #c1ebf2;">pixels to players</span>, <span style="color:
 - **[4x4x4 LED Cube](https://github.com/W-N-R/LED-Cube-4x4x4)**: Arduino-powered display with multiplexed animations.
 - **Web Development**: Deployed sites with 1500+ visits using HTML/CSS.
 
-### <span style="color: #82e85b;">🛠️ TECHNICAL SKILLS</span>
-- **Programming**: C++, Embedded Systems (Arduino), HTML/CSS
-- **Design**: Blender, Adobe Suite, Figma, 3D Animation
-- **Tools**: Git/GitHub, MATLAB, Proteus, Altium
+### 🛠️ TECHNICAL SKILLS
+- **Programming**: C++, Embedded Systems (Arduino), HTML/CSS  
+- **Design**: Blender, Adobe Suite, Figma, 3D Animation  
+- **Tools**: Git/GitHub, MATLAB, Proteus, Altium  
 
-<div style="margin: 25px 0; text-align: center;">
-  <a href="https://github.com/XOST-Studio/XOST-Studio.github.io/raw/main/Muhammad%20Waleed%20Resume.pdf" target="_blank" style="background: linear-gradient(90deg, #82e85b, #c1ebf2); color: #000; padding: 8px 20px; border-radius: 25px; text-decoration: none; font-weight: bold; display: inline-block; margin: 0 10px;">📄 Full Resume</a>
-  <a href="https://github.com/W-N-R" target="_blank" style="background: transparent; color: #82e85b; padding: 8px 20px; border-radius: 25px; text-decoration: none; border: 1px solid #82e85b; display: inline-block; margin: 0 10px;">💻 GitHub Portfolio</a>
+<div style="display: flex; gap: 15px; margin-top: 20px;">
+  <a href="https://github.com/XOST-Studio/XOST-Studio.github.io/raw/main/Muhammad%20Waleed%20Resume.pdf" 
+     target="_blank"
+     style="background: #82e85b; 
+            color: #000; 
+            padding: 8px 20px; 
+            border-radius: 25px; 
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            border: 1px solid transparent;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);"
+     onmouseover="this.style.background='#c1ebf2'; this.style.boxShadow='0 4px 8px rgba(194, 232, 242, 0.4)';" 
+     onmouseout="this.style.background='#82e85b'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)';">
+    📄 Full Resume
+  </a>
+  
+  <a href="https://github.com/W-N-R" 
+     target="_blank"
+     style="background: transparent; 
+            color: #82e85b; 
+            padding: 8px 20px; 
+            border-radius: 25px; 
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            border: 1px solid #82e85b;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);"
+     onmouseover="this.style.color='#c1ebf2'; this.style.borderColor='#c1ebf2'; this.style.boxShadow='0 4px 8px rgba(194, 232, 242, 0.4)';" 
+     onmouseout="this.style.color='#82e85b'; this.style.borderColor='#82e85b'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)';">
+    💻 GitHub Portfolio
+  </a>
 </div>
 
 ---
@@ -75,6 +104,6 @@ From <span style="color: #c1ebf2;">pixels to players</span>, <span style="color:
 ---
 
 <footer style="text-align: center; margin-top: 50px; color: #c1ebf2; font-size: 0.9em;">
-  <p>© 2023 XOST Studio | Building the next-gen digital experiences</p>
-  <p>Project maintained by <a href="https://github.com/XOST-Studio" style="color: #82e85b;">XOST Studio</a></p>
+  <p>© 2025 XOST Studio | Building the next gen digital experiences</p>
+  <p>Project maintained by <a href="https://github.com/W-N-R" style="color: #82e85b;">WNR</a></p>
 </footer>
