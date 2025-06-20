@@ -4,9 +4,9 @@ description: >-
 baseurl: "" 
 url: "https://xost-studio.github.io"
 
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/jekyll-theme-minimal@v0.2.0
 
-title: Your Site Title
+
 include:
   - _includes
 plugins:
