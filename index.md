@@ -179,23 +179,10 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
     </div>
   </section>
 
-  <!-- Skills Section -->
-
-
-<!-- [Previous header/content remains the same until Skills Section] -->
-
+ 
 <!-- Skills Section -->
-<section id="skills-section" style="margin: 60px 0;">
+<section id="skills-section" style="margin: 60px 0;" class="skills-container">
   <h4 style="color: #82e85b; font-size: 1.5rem; margin-bottom: 20px; text-align: center;">🛠️ TECHNICAL SKILLS</h4>
-  
-  <svg width="0" height="0">
-    <defs>
-      <linearGradient id="skill-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#82e85b" />
-        <stop offset="100%" stop-color="#c1ebf2" />
-      </linearGradient>
-    </defs>
-  </svg>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 40px; margin-top: 40px;">
     <!-- Embedded Systems - 92% -->
@@ -204,11 +191,11 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         <svg viewBox="0 0 120 120">
           <circle class="circle-bg" cx="60" cy="60" r="50"></circle>
           <circle class="circle-progress" cx="60" cy="60" r="50" 
-                  style="--target-offset: 25.12; animation: progress 1.5s ease-out forwards;"></circle>
+                  style="--target-offset: 25.12;"></circle> <!-- 314 * (1 - 0.92) = 25.12 -->
         </svg>
-        <div class="skill-label">
-          <span class="skill-percent">92%</span>
-          <span class="skill-name">Embedded Systems</span>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+          <span style="color: #82e85b; font-size: 1.8rem; font-weight: bold;">92%</span><br>
+          <span style="color: #c1ebf2;">Embedded Systems</span>
         </div>
       </div>
     </div>
@@ -218,11 +205,11 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         <svg viewBox="0 0 120 120">
           <circle class="circle-bg" cx="60" cy="60" r="50"></circle>
           <circle class="circle-progress" cx="60" cy="60" r="50" 
-                  style="--target-offset: 47.1; animation: progress 1.5s ease-out forwards;"></circle>
+                  style="--target-offset: 47.1;"></circle> <!-- 314 * (1 - 0.85) = 47.1 -->
         </svg>
-        <div class="skill-label">
-          <span class="skill-percent">85%</span>
-          <span class="skill-name">HTML/CSS</span>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+          <span style="color: #82e85b; font-size: 1.8rem; font-weight: bold;">85%</span><br>
+          <span style="color: #c1ebf2;">HTML/CSS</span>
         </div>
       </div>
     </div>
@@ -232,11 +219,11 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         <svg viewBox="0 0 120 120">
           <circle class="circle-bg" cx="60" cy="60" r="50"></circle>
           <circle class="circle-progress" cx="60" cy="60" r="50" 
-                  style="--target-offset: 3.14; animation: progress 1.5s ease-out forwards;"></circle>
+                  style="--target-offset: 3.14;"></circle> <!-- 314 * (1 - 0.99) = 3.14 -->
         </svg>
-        <div class="skill-label">
-          <span class="skill-percent">99%</span>
-          <span class="skill-name">Git/GitHub</span>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+          <span style="color: #82e85b; font-size: 1.8rem; font-weight: bold;">99%</span><br>
+          <span style="color: #c1ebf2;">Git/GitHub</span>
         </div>
       </div>
     </div>
@@ -246,11 +233,11 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
         <svg viewBox="0 0 120 120">
           <circle class="circle-bg" cx="60" cy="60" r="50"></circle>
           <circle class="circle-progress" cx="60" cy="60" r="50" 
-                  style="--target-offset: 62.8; animation: progress 1.5s ease-out forwards;"></circle>
+                  style="--target-offset: 62.8;"></circle> <!-- 314 * (1 - 0.80) = 62.8 -->
         </svg>
-        <div class="skill-label">
-          <span class="skill-percent">80%</span>
-          <span class="skill-name">3D Animation</span>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+          <span style="color: #82e85b; font-size: 1.8rem; font-weight: bold;">80%</span><br>
+          <span style="color: #c1ebf2;">3D Animation</span>
         </div>
       </div>
     </div>
