@@ -6,6 +6,14 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
 ---
 
 <style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  @keyframes pulse {
+    0%, 100% { box-shadow: 0 0 20px #82e85b, 0 0 30px #c1ebf2; }
+    50% { box-shadow: 0 0 30px #82e85b, 0 0 40px #c1ebf2; }
+  }
   @keyframes progress {
     0% { stroke-dashoffset: 314; }
     100% { stroke-dashoffset: var(--target-offset); }
@@ -23,33 +31,24 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
   }
   .circle-progress {
     fill: none;
-    stroke: url(#skill-gradient);
+    stroke: #82e85b;
     stroke-width: 8;
     stroke-linecap: round;
     stroke-dasharray: 314;
     transform-origin: center;
     transform: rotate(-90deg);
   }
-  .skill-label {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    width: 100%;
+  .neon-text {
+    text-shadow: 0 0 5px #82e85b, 0 0 10px #c1ebf2;
   }
-  .skill-percent {
-    color: #82e85b;
-    font-size: 1.8rem;
-    font-weight: bold;
-    display: block;
-    line-height: 1;
+  .skills-container {
+    opacity: 0;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    transform: translateY(20px);
   }
-  .skill-name {
-    color: #c1ebf2;
-    font-size: 1rem;
-    display: block;
-    margin-top: 5px;
+  .skills-container.visible {
+    opacity: 1;
+    transform: translateY(0);
   }
 </style>
   <script>
