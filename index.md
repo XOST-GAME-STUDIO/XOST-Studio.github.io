@@ -35,7 +35,7 @@ From **pixels to players**, **code to cosmos**, every project is a fusion of eng
 - **Design**: Blender, Adobe Suite, Figma, 3D Animation
 - **Tools**: Git/GitHub, MATLAB, Proteus, Altium
 
-📌 *[Full Resume](/waleed-resume) | [GitHub Portfolio](https://github.com/XOST-Studio/XOST-Studio.github.io/blob/main/Muhammad%20Waleed%20Resume.pdf)*
+📌 *[Full Resume](https://github.com/XOST-Studio/XOST-Studio.github.io/blob/main/Muhammad%20Waleed%20Resume.pdf) | [GitHub Portfolio](https://github.com/XOST-Studio/XOST-Studio.github.io/blob/main/Muhammad%20Waleed%20Resume.pdf)*
 
 ---
 
