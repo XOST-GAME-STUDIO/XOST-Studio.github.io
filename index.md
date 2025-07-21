@@ -113,7 +113,7 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
   <!-- Founder Section -->
   <section style="margin: 60px 0;">
     <h2 style="text-align: center; font-size: 2.2rem; margin-bottom: 30px;">
-      <span style="display: inline-block; background: linear-gradient(90deg, #82e85b, #c1ebf2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      <span style="display: inline-block; background: linear-gradient(90deg, #01040a, #01040a); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
         👨‍💻 FOUNDER & CEO
       </span>
     </h2>
@@ -126,13 +126,13 @@ image: https://raw.githubusercontent.com/XOST-Studio/XOST-Studio.github.io/main/
             <circle class="circle-progress" cx="60" cy="60" r="50" stroke-dashoffset="78.5"></circle> <!-- 75% -->
           </svg>
           <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-            <span style="color: #82e85b; font-size: 1.8rem; font-weight: bold;">C++</span><br>
-            <span style="color: #c1ebf2;">Expert</span>
+            <span style="color: #ffffff; font-size: 1.8rem; font-weight: bold;">C++</span><br>
+            <span style="color: #ffffff;">Expert</span>
           </div>
         </div>
       </div>
       <div style="flex: 1; min-width: 300px;">
-        <h3 style="margin-top: 0; color: #c1ebf2; font-size: 1.8rem;">
+        <h3 style="margin-top: 0; color: #01040a; font-size: 1.8rem;">
           <span style="color: #82e85b;">MUHAMMAD WALEED</span>
         </h3>
         <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
